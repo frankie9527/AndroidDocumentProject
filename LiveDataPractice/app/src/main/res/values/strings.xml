@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LiveDataPractice</string>
+    <string name="label1">Current count</string>
+    <string name="label2">Who</string>
+    <string name="label3">How do you feel today</string>
+    <string name="label4">Fetch Status</string>
+    <string name="refresh_label">Fetch new data</string>
+</resources>
