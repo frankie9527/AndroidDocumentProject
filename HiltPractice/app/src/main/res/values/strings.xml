@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">HiltPractice</string>
+    <string name="base">base</string>
+    <string name="dao">dao</string>
+    <string name="http">http</string>
+
+    <string name="user_name">plz input user name</string>
+    <string name="user_num">plz input user phoneNum</string>
+    <string name="insert">insert</string>
+    <string name="query">query</string>
 </resources>

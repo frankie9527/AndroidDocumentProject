@@ -8,25 +8,30 @@
     android:padding="8dp"
     tools:context=".ui.MainActivity">
 
-    <Button
-        android:id="@+id/bt_base"
+    <EditText
+        android:id="@+id/ed_name"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="8dp"
-        android:text="@string/base" />
+        android:hint="@string/user_name" />
+    <EditText
+        android:id="@+id/ed_num"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:hint="@string/user_num" />
+    <Button
+        android:id="@+id/bt_insert"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:text="@string/insert" />
 
     <Button
-        android:id="@+id/bt_dao"
+        android:id="@+id/bt_query"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="8dp"
-        android:text="@string/dao" />
-
-    <Button
-        android:id="@+id/bt_http"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_margin="8dp"
-        android:text="@string/http" />
+        android:text="@string/query" />
 
 </LinearLayout>
