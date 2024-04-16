@@ -1,0 +1,5 @@
+*.iml
+.gradle*.iml
+.gradle
+.idea
+.DS_Store
