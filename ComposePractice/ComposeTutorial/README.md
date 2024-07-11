@@ -4,3 +4,7 @@
 - [documentation](https://developer.android.google.cn/develop/ui/compose/documentation) 官方文档
 - [courses](https://developer.android.google.cn/courses/pathways/compose?hl=zh-cn) 培训课程
 - [ui](https://developer.android.google.cn/develop/ui/compose/documentation?hl=zh-cn) ComposeUi
+
+- [Compose essentials](https://developer.android.google.cn/courses/pathways/jetpack-compose-for-android-developers-1) Compose essentials
+
+
